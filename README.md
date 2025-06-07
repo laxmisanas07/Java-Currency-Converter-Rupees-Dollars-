@@ -32,3 +32,24 @@ A simple desktop application built in **Java using Swing** that allows users to 
 4. Navigate to the folder where the file is saved:
    ```bash
    cd Desktop/YourProjectFolder
+
+---
+
+## Compile the Java program
+
+javac CodeWithCurious.java
+
+---
+
+## Run the application
+
+java CodeWithCurious
+
+---
+
+## A GUI window will appear allowing you to convert between INR and USD.
+
+
+
+
+
