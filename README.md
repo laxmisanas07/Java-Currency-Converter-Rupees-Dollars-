@@ -35,19 +35,19 @@ A simple desktop application built in **Java using Swing** that allows users to 
 
 ---
 
-## Compile the Java program
+## 🛠️ Compile the Java program
 
 javac CodeWithCurious.java
 
 ---
 
-## Run the application
+## ▶️ Run the application
 
 java CodeWithCurious
 
 ---
 
-## A GUI window will appear allowing you to convert between INR and USD.
+## 🖥️ A GUI window will appear allowing you to convert between INR and USD.
 
 
 
